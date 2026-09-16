@@ -53,10 +53,10 @@ The Power BI dashboard lets users filter by **subscription status, gender, categ
 
 | File | Description |
 |---|---|
-| [`customer_shopping_behavior.csv`](./customer_shopping_behavior.csv) | Raw dataset (3,900 records) |
-| [`Customer_behavior.ipynb`](./Customer_behavior.ipynb) | Data cleaning & feature engineering |
+| [`customer_shopping_behavior.csv`](./Data/customer_shopping_behavior.csv) | Raw dataset (3,900 records) |
+| [`Customer_behavior.ipynb`](./Notebook/Customer_behavior.ipynb) | Data cleaning & feature engineering |
 | [`Customer_behavior.sql`](./SQL%20file/Customer_behavior.sql) | Business analysis queries |
-| [`Dashboard.pbix`](./Dashboard.pbix) | Interactive Power BI dashboard |
+| [`Dashboard.pbix`](./Dashboard/Dashboard.pbix) | Interactive Power BI dashboard |
 
 ---
 
@@ -82,9 +82,9 @@ Built an interactive dashboard with slicers and KPI cards to make insights acces
 ## 🚀 How to Run This Project
 
 1. Clone the repo
-2. Run `Customer_behavior.ipynb` to clean the data (update PostgreSQL credentials if loading to a database)
-3. Run `Customer_behavior.sql` to reproduce the analysis
-4. Open `Dashboard.pbix` in Power BI Desktop to explore the dashboard
+2. Run `Notebook/Customer_behavior.ipynb` to clean the data (update PostgreSQL credentials if loading to a database)
+3. Run `SQL file/Customer_behavior.sql` to reproduce the analysis
+4. Open `Dashboard/Dashboard.pbix` in Power BI Desktop to explore the dashboard
 
 ---
 
