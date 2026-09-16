@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project — from raw data to business insights — using **Python, SQL, and Power BI** to uncover customer purchasing patterns for a retail business.
 
-![Dashboard Preview](./dashboard.png)
+![Dashboard Preview](.Dashboard/dashboard.png)
 
 
 
