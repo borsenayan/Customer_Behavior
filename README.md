@@ -34,7 +34,7 @@ This project analyzes 3,900 retail customer transactions to answer key business 
 - What are the top-performing products within each category?
 - Are repeat buyers more likely to subscribe?
 
-*(Full list of 10 SQL queries in [`Customer_behavior.sql`](./Customer_behavior.sql))*
+*(Full list of 10 SQL queries in [`Customer_behavior.sql`](./SQL%20file/Customer_behavior.sql))*
 
 ---
 
@@ -55,7 +55,7 @@ The Power BI dashboard lets users filter by **subscription status, gender, categ
 |---|---|
 | [`customer_shopping_behavior.csv`](./customer_shopping_behavior.csv) | Raw dataset (3,900 records) |
 | [`Customer_behavior.ipynb`](./Customer_behavior.ipynb) | Data cleaning & feature engineering |
-| [`Customer_behavior.sql`](./Customer_behavior.sql) | Business analysis queries |
+| [`Customer_behavior.sql`](./SQL%20file/Customer_behavior.sql) | Business analysis queries |
 | [`Dashboard.pbix`](./Dashboard.pbix) | Interactive Power BI dashboard |
 
 ---
